@@ -2,45 +2,43 @@
 {
     public class ConsoleIO
     {
-        public static ArrowHead HeadSelection()
+        public static Head HeadSelect()
         {
             while (true)
             {
-                Console.Write($"Enter Arrow Head Selection, options are {ArrowHead.Steel}, {ArrowHead.Wood}, or {ArrowHead.Obsidian}:  ");
-                string prompt = Console.ReadLine();
-                if (Enum.TryParse(prompt, out ArrowHead headChoice))
+                Console.Write($"Enter Arrow Head Selection, options are {Head.Steel}, {Head.Wood}, or {Head.Obsidian}:  ");
+                if (Enum.TryParse(ML.S_CapFirst(Console.ReadLine().ToLower()), out Head output))
                 {
-                    return headChoice;
+                    return output;
                 }
-                Console.WriteLine($"Invalid Selection. Must be {ArrowHead.Steel}, {ArrowHead.Wood}, or {ArrowHead.Obsidian}.\n");
+                Console.WriteLine($"Invalid Selection. Must be {Head.Steel}, {Head.Wood}, or {Head.Obsidian}.\n");
             }
         }
-        public static Fletching FletchingSelection()
+        public static Fletch FletchSelect()
         {
             while (true)
             {
-                Console.Write($"\nEnter Fletching Selection, options are {Fletching.Plastic}, {Fletching.TurkeyFeathers}, or {Fletching.GooseFeathers}:  ");
-                string prompt = Console.ReadLine();
-                if (Enum.TryParse(prompt, out Fletching fletchingChoice))
+                Console.Write($"\nEnter Fletching Selection, options are {Fletch.Plastic}, {Fletch.Turkeyfeathers}, or {Fletch.Goosefeathers}:  ");
+                if (Enum.TryParse(ML.S_CapFirst(Console.ReadLine().ToLower()), out Fletch output))
                 {
-                    return fletchingChoice;
+                    return output;
                 }
-                Console.WriteLine($"Invalid Selection. Must be {Fletching.Plastic}, {Fletching.TurkeyFeathers}, or {Fletching.GooseFeathers}.\n");
+                Console.WriteLine($"Invalid Selection. Must be {Fletch.Plastic}, {Fletch.Turkeyfeathers}, or {Fletch.Goosefeathers}.\n");
             }
         }
-        public static float LengthSelection(float min, float max)
+        public static float LengthSelect(float min, float max)
         {
             while (true)
             {
                 Console.Write($"\nEnter Length Selection, must values between {min}cm  and {max}cm:  ");
-                if(float.TryParse(Console.ReadLine(), out float lengthChoice) && lengthChoice > min && lengthChoice < max);
+                if(float.TryParse(Console.ReadLine(), out float output) && output >= min && output <= max)
                 {
-                    return lengthChoice;
+                    return output;
                 }
                 Console.WriteLine($"Invalid Selection. Must be between {min}cm and {max}cm.\n");
             }
         }
-        public static void Receipt(float total)
+        public static void OrderReceipt(float total)
         {
             Console.WriteLine($"Your total is {total} gold.");
         }

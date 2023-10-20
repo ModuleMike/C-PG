@@ -2,5 +2,7 @@
 
 Arrow arrowBuilder = new Arrow();
 
-arrowBuilder.ArrowBuild();
-ConsoleIO.Receipt(arrowBuilder.GetCost());
+arrowBuilder.SelectOrder();
+ConsoleIO.OrderReceipt(arrowBuilder.CheckOut());
+
+
