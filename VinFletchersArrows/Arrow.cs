@@ -4,7 +4,9 @@
     {
         private Head _headType;
         private Fletch _fletchingType;
-        private float _length, _min, _max;
+        private float _length;
+        private float _min = 60f;
+        private float _max = 100f;
 
         public void SelectOrder()
         {

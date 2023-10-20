@@ -18,7 +18,7 @@
         {
             while (true)
             {
-                Console.Write($"\nEnter Fletching Selection, options are {Fletch.Plastic}, {Fletch.Turkeyfeathers}, or {Fletch.Goosefeathers}:  ");
+                Console.Write($"\nEnter Fletch Selection, options are {Fletch.Plastic}, {Fletch.Turkeyfeathers}, or {Fletch.Goosefeathers}:  ");
                 if (Enum.TryParse(ML.S_CapFirst(Console.ReadLine().ToLower()), out Fletch output))
                 {
                     return output;
