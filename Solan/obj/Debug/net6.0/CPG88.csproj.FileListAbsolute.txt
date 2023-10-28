@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\bin\Debug\net6.0\CPG88.exe
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\bin\Debug\net6.0\CPG88.deps.json
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\bin\Debug\net6.0\CPG88.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\bin\Debug\net6.0\CPG88.dll
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\bin\Debug\net6.0\CPG88.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.dll
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\refint\CPG88.dll
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\CPG88.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#PG\LvL11\CPG88\obj\Debug\net6.0\ref\CPG88.dll
