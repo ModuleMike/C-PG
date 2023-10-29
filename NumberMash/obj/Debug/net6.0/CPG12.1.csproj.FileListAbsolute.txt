@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\bin\Debug\net6.0\CPG12.1.exe
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\bin\Debug\net6.0\CPG12.1.deps.json
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\bin\Debug\net6.0\CPG12.1.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\bin\Debug\net6.0\CPG12.1.dll
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\bin\Debug\net6.0\CPG12.1.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.dll
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\refint\CPG12.1.dll
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\CPG12.1.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#PG\LvL12\CPG12.1\obj\Debug\net6.0\ref\CPG12.1.dll
