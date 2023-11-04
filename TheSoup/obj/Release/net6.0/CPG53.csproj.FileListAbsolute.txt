@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\bin\Release\net6.0\CPG53.exe
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\bin\Release\net6.0\CPG53.deps.json
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\bin\Release\net6.0\CPG53.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\bin\Release\net6.0\CPG53.dll
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\bin\Release\net6.0\CPG53.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.dll
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\refint\CPG53.dll
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.pdb
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\CPG53.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#PG\LvL7\CPG53\obj\Release\net6.0\ref\CPG53.dll
