@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\bin\Debug\net6.0\TheCard.exe
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\bin\Debug\net6.0\TheCard.deps.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\bin\Debug\net6.0\TheCard.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\bin\Debug\net6.0\TheCard.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\bin\Debug\net6.0\TheCard.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\refint\TheCard.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\TheCard.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheCard\obj\Debug\net6.0\ref\TheCard.dll
