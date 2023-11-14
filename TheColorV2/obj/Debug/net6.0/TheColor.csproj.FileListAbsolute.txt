@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\bin\Debug\net6.0\TheColor.exe
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\bin\Debug\net6.0\TheColor.deps.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\bin\Debug\net6.0\TheColor.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\bin\Debug\net6.0\TheColor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\bin\Debug\net6.0\TheColor.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\refint\TheColor.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\TheColor.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL24\TheColor\obj\Debug\net6.0\ref\TheColor.dll
