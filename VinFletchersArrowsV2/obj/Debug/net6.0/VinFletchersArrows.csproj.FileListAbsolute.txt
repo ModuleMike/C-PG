@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.exe
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.deps.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\refint\VinFletchersArrows.dll
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#Players Guide\LVL13\VinFletchersArrows\obj\Debug\net6.0\ref\VinFletchersArrows.dll
