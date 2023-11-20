@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\bin\Debug\net6.0\ContactClass.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\bin\Debug\net6.0\ContactClass.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\bin\Debug\net6.0\ContactClass.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\bin\Debug\net6.0\ContactClass.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\bin\Debug\net6.0\ContactClass.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\refint\ContactClass.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ContactClass.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ContactClass\obj\Debug\net6.0\ref\ContactClass.dll
