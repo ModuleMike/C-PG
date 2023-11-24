@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\bin\Debug\net6.0\StaticPrompter.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\bin\Debug\net6.0\StaticPrompter.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\bin\Debug\net6.0\StaticPrompter.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\bin\Debug\net6.0\StaticPrompter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\bin\Debug\net6.0\StaticPrompter.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\refint\StaticPrompter.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\StaticPrompter.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\StaticPrompter\obj\Debug\net6.0\ref\StaticPrompter.dll
