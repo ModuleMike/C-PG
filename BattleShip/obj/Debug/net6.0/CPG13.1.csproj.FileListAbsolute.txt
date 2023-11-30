@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\bin\Debug\net6.0\CPG13.1.exe
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\bin\Debug\net6.0\CPG13.1.deps.json
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\bin\Debug\net6.0\CPG13.1.runtimeconfig.json
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\bin\Debug\net6.0\CPG13.1.dll
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\bin\Debug\net6.0\CPG13.1.pdb
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.dll
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\refint\CPG13.1.dll
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.pdb
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\CPG13.1.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C#PG\LVL13\CPG13.1\obj\Debug\net6.0\ref\CPG13.1.dll
