@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\bin\Debug\net6.0\C#100Capstone.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\bin\Debug\net6.0\C#100Capstone.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\bin\Debug\net6.0\C#100Capstone.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\bin\Debug\net6.0\C#100Capstone.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\bin\Debug\net6.0\C#100Capstone.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\refint\C#100Capstone.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\C#100Capstone.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#102\TempConver\C#100Capstone\obj\Debug\net6.0\ref\C#100Capstone.dll
