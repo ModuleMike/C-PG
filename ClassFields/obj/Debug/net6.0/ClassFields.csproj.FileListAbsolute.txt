@@ -1,0 +1,14 @@
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\bin\Debug\net6.0\ClassFields.exe
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\bin\Debug\net6.0\ClassFields.deps.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\bin\Debug\net6.0\ClassFields.runtimeconfig.json
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\bin\Debug\net6.0\ClassFields.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\bin\Debug\net6.0\ClassFields.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.AssemblyInfoInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.AssemblyInfo.cs
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.csproj.CoreCompileInputs.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\refint\ClassFields.dll
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.pdb
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ClassFields.genruntimeconfig.cache
+C:\Users\mrlub\Desktop\C# Skill Foundry\C#201\ClassFields\obj\Debug\net6.0\ref\ClassFields.dll
